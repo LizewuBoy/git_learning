@@ -1,5 +1,5 @@
 body{
-  background-color: orange;
+  background-color: green;
   font-family: 'Monaco', sans-serif;
   color: white;
 }
@@ -14,7 +14,7 @@ header{
 }
 
 h3{
-  color: red;
+  color: blue;
 }
 
 header-img{
